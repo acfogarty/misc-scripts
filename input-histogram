@@ -1,0 +1,11 @@
+9686 !ndata
+55 ! nbins
+4.0
+15.0 
+o4dist_at_jump.out0004a
+o4dist_at_jump.hist0004a
+0 !lines to skip at start of datafile
+2 !ncolumns
+2 !idatacolumn ! numbered from 1
+0 iweightcolumn ! numbered from 1, if = 0 then all weight are = 1.0
+0 ! 1=print warning if datapoint=0.0 falls outside range, 0=don't
