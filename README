@@ -1,5 +1,7 @@
-acf.py           - autocorrelation function of a time series
-histogram.f90    - 1D histogram of (weighted) data (input-histogram)
-pca.py           - PCA on Cartesian coordinates of protein
-power_spectrum.R - power spectrum from time series
-xyz2gro-awk.sh   - xyz format to gro format
+acf.py                - autocorrelation function of a time series
+energy_fluctuations.R - drift from espressopp energy file
+histogram.f90         - 1D histogram of (weighted) data (input-histogram)
+KirkwoodBuffIntegral.py - KBI from RDF
+pca.py                - PCA on Cartesian coordinates of protein
+power_spectrum.R      - power spectrum from time series
+xyz2gro-awk.sh        - xyz format to gro format
