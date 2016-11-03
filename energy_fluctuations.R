@@ -2,7 +2,7 @@
 #uses several definitions of energy fluctuations
 #Def 1: DeltaE = <[E-<E>]^2>^0.5 
 #Def 2: DeltaE = <[E-E0]^2>^0.5 
-#reads input file with columns "cutoff timestep filename", each datafile containing columns headed Ek and Etotal
+#reads input file with columns "cutoff timestep filename", each datafile containing columns headed #time, Ek and Etotal
 
 #definition 1 of DelteE is simply the standard deviation (actually using Bessel's correction)
 
