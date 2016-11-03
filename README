@@ -1,5 +1,7 @@
 acf.py                - autocorrelation function of a time series
+count-inodes.sh       - check inodes usage in sub-directories
 energy_fluctuations.R - drift from espressopp energy file
+error_bars_datfile.py - calculate Student t error bars over columnar data
 histogram.f90         - 1D histogram of (weighted) data (input-histogram)
 KirkwoodBuffIntegral.py - KBI from RDF
 pca.py                - PCA on Cartesian coordinates of protein
