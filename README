@@ -7,3 +7,5 @@ KirkwoodBuffIntegral.py - KBI from RDF
 pca.py                - PCA on Cartesian coordinates of protein
 power_spectrum.R      - power spectrum from time series
 xyz2gro-awk.sh        - xyz format to gro format
+combine-xmgrace.py    - combine two xmgrace-format files
+scraper.py            - general web scraper
