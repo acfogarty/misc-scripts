@@ -9,3 +9,5 @@ power_spectrum.R      - power spectrum from time series
 xyz2gro-awk.sh        - xyz format to gro format
 combine-xmgrace.py    - combine two xmgrace-format files
 scraper.py            - general web scraper
+average.py            - quick averaging of columnar datafile
+extract-bib.py        - extract and collate bibtex records
