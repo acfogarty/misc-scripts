@@ -12,3 +12,4 @@ scraper.py            - general web scraper
 average.py            - quick averaging of columnar datafile
 extract-bib.py        - extract and collate bibtex records
 planetary_sys_trj.py  - make trajectories of solar system
+oscillator.py         - simulate probability distn of harmonic oscillator
